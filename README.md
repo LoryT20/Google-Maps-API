@@ -2,7 +2,7 @@
 To open the completed code, go to the following URL
 http://jsfiddle.net/LoryT20j/s2h9d59a/528/
 
-Alternatively, you can copy and paste the code onto the segments that correspond to the file name. Additionally, you would have to copy and paste these links into resources
+Alternatively, you can copy and paste the code into the segments that correspond to the file name. Additionally, you would have to copy and paste these links into resources
 https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.full.min.js
 https://rawgit.com/kanghj/alasql/xls_browser_import/dist/alasql.js
 
