@@ -1,13 +1,4 @@
-# User-s-Guide
-To open the completed code, go to the following URL
-http://jsfiddle.net/LoryT20j/s2h9d59a/528/
-
-Alternatively, you can copy and paste the code into the segments that correspond to the file name. Additionally, you would have to copy and paste these links into resources
-https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.full.min.js
-https://rawgit.com/kanghj/alasql/xls_browser_import/dist/alasql.js
-
-To run the code on JsFiddle, click ‘run’ near the top left corner, then click ‘choose file’ from the box on the lower right corner. select the file you wish to open. If there are two columns named ‘location’ and ‘state’, and the contents of those segments contain the names of real cities and states, the location(s) should be plotted onto the map.
-
+# Developer-s-Guide
 HTML explained:
 the first line utilizes the AlaSQL database, allowing the user to access local files. The data from these files will be sent over to the lodeFile method under the variable name 'event'. The next 3 lines are to set up the map
 
